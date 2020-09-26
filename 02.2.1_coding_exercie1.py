@@ -18,7 +18,7 @@ quotient = print("The quotient is", num_1 // num_2)
 print(quotient) # the quotient variable is already being printed, so None here.
 
 remainder = print("The remainder is", num_1 % num_2)
-print(remainder) # the remainder variable is already being printed, so None. 
+print(remainder) # the remainder variable is already being printed, so None.
 
 print(print("We're done!"))
 
